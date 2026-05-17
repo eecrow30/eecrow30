@@ -1,5 +1,6 @@
-## Hi there 👋
-##### i'm new to github!
+## Erin's about me :)
+##### - I'm proficient in Python, but always learning!
+##### - I'm wanting to learn Java, C++, HTML, and more.
 
 
 <!--
